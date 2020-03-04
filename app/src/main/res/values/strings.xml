@@ -1,3 +1,7 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">ownapp</string>
+    <string name="email" tools:ignore="ReferenceType">@drawable/round_email_white_24</string>
+    <string name="pass" tools:ignore="ReferenceType">@drawable/round_lock_white_24</string>
+    <string name="person" tools:ignore="ReferenceType">@drawable/round_person_pin_white_24</string>
+
 </resources>
